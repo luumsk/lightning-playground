@@ -7,6 +7,7 @@ name = "pypi"
 lightning = "*"
 torch = "*"
 torchvision = "*"
+tensorboard = "*"
 
 [dev-packages]
 ipykernel = "*"
